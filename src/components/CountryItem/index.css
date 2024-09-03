@@ -1,0 +1,26 @@
+.flag {
+  width: 280px;
+}
+
+.country-item {
+  margin: 10px;
+}
+
+.details-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1f1f2f;
+  padding: 6px;
+  color: #f8fafc;
+}
+
+.remove-btn {
+  background: transparent;
+  color: white;
+  font-weight: bold;
+  border: 1px solid white;
+  border-radius: 6px;
+  padding: 8px;
+  cursor: pointer;
+}
